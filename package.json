@@ -1,0 +1,24 @@
+{
+  "name": "todolistinnode.js",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bursalma/To-Do-List-in-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bursalma/To-Do-List-in-Node.js/issues"
+  },
+  "homepage": "https://github.com/bursalma/To-Do-List-in-Node.js#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
